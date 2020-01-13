@@ -1,0 +1,15 @@
+.ZipInput {
+    margin-top: 15px;
+    border: 1px solid black;
+}
+
+.ZipButton {
+    background-color: #6E6E6E;
+    color: white;
+    margin-top: 15px;
+}
+
+.ZipButton:hover {
+    background-color: white;
+    color: #6E6E6E;
+}
