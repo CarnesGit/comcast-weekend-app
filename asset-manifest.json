@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/comcast-weekend-app/static/css/main.7cf58671.chunk.css",
+    "main.js": "/comcast-weekend-app/static/js/main.511f42d8.chunk.js",
+    "main.js.map": "/comcast-weekend-app/static/js/main.511f42d8.chunk.js.map",
+    "runtime-main.js": "/comcast-weekend-app/static/js/runtime-main.3ac3c668.js",
+    "runtime-main.js.map": "/comcast-weekend-app/static/js/runtime-main.3ac3c668.js.map",
+    "static/js/2.409df4f8.chunk.js": "/comcast-weekend-app/static/js/2.409df4f8.chunk.js",
+    "static/js/2.409df4f8.chunk.js.map": "/comcast-weekend-app/static/js/2.409df4f8.chunk.js.map",
+    "index.html": "/comcast-weekend-app/index.html",
+    "precache-manifest.faa2d52cce95e5f86b0cc1d9f22fb2da.js": "/comcast-weekend-app/precache-manifest.faa2d52cce95e5f86b0cc1d9f22fb2da.js",
+    "service-worker.js": "/comcast-weekend-app/service-worker.js",
+    "static/css/main.7cf58671.chunk.css.map": "/comcast-weekend-app/static/css/main.7cf58671.chunk.css.map",
+    "static/js/2.409df4f8.chunk.js.LICENSE": "/comcast-weekend-app/static/js/2.409df4f8.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ac3c668.js",
+    "static/js/2.409df4f8.chunk.js",
+    "static/css/main.7cf58671.chunk.css",
+    "static/js/main.511f42d8.chunk.js"
+  ]
+}
